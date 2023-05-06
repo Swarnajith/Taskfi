@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "68033450609",
+    "firebase_url": "https://moneymanagemenet-default-rtdb.firebaseio.com",
+    "project_id": "moneymanagemenet",
+    "storage_bucket": "moneymanagemenet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68033450609:android:14be09634033a59f3d01d0",
+        "android_client_info": {
+          "package_name": "com.example.planmanegment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68033450609-oegfu1npehh25pffbmo6e4u2il61u7a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMUGu5pXdtr3begJR6anXe3PDv7gEzGCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68033450609-oegfu1npehh25pffbmo6e4u2il61u7a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
