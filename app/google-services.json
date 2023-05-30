@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "568360484109",
+    "project_id": "teskif-app",
+    "storage_bucket": "teskif-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568360484109:android:59b30288d60758a81ac444",
+        "android_client_info": {
+          "package_name": "com.example.teskifapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568360484109-j9gnabm98o7g1tsiggh9n043td5teq7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdDXOUJaXtFxh1I2GKHdoY7P_DRItqkvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568360484109-j9gnabm98o7g1tsiggh9n043td5teq7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

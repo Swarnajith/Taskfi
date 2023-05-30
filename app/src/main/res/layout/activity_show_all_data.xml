@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="150dp">
+
+    <TextView
+        android:id="@+id/ckboxfoods"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:textAlignment="viewStart"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.88" />
+
+    <TextView
+        android:id="@+id/values"
+        android:layout_width="175dp"
+        android:layout_height="36dp"
+        android:text="@string/foodvalue"
+        android:textAlignment="center"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="@+id/ckboxfoods"
+        app:layout_constraintEnd_toEndOf="@+id/ckboxfoods"
+        app:layout_constraintHorizontal_bias="0.889"
+        app:layout_constraintStart_toStartOf="@+id/ckboxfoods"
+        app:layout_constraintTop_toTopOf="@+id/ckboxfoods"
+        app:layout_constraintVertical_bias="0.843" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
